@@ -20,5 +20,5 @@ Before running the script, make sure you have the required Python libraries inst
 
 Acknowledgments:
 
-pyttsx3 - Text-to-speech library for Python
-wikipedia-api - Python wrapper for the Wikipedia API
+'pyttsx3' - Text-to-speech library for Python  
+'wikipedia-api' - Python wrapper for the Wikipedia API
