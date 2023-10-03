@@ -1,6 +1,6 @@
 # Fetch_summary
 
-# Wikipedia Search and Text-to-Speech
+# Wikipedia Search 
 
 This is a Python script that allows you to search Wikipedia and read the summaries using text-to-speech. It uses the `pyttsx3` library for text-to-speech and the `wikipedia` library for searching Wikipedia.
 
