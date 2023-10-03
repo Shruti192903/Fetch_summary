@@ -18,10 +18,7 @@ Before running the script, make sure you have the required Python libraries inst
 3. Navigate to the directory containing the script.
 4. Run the script using Python:
 
-```shell
-python script.py
+Acknowledgments:
 
-
-Acknowledgments
-pyttsx3 - Text-to-speech library for Python
-wikipedia-api - Python wrapper for the Wikipedia API
+1.pyttsx3 - Text-to-speech library for Python
+2.wikipedia-api - Python wrapper for the Wikipedia API
